@@ -18,4 +18,7 @@ limit order ting notebook just lets u scale limit orders at a range around price
 
 queue trades subscribes to mex ws endpoint and reports to u if a trade was an open or close 
 
+triptamine/insillico had a neat indicator on tradingview, recreated in py with no excess weird finance libs
+
+ftx leverage token rebalance calculator
 
