@@ -22,3 +22,8 @@ triptamine/insillico had a neat indicator on tradingview, recreated in py with n
 
 ftx leverage token rebalance calculator
 
+grab atm iv for whatever options tool requires getting it, 25d u just adjust the 1- 
+
+relative returns since timestamp
+
+
